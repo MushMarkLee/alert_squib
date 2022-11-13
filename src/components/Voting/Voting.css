@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "PublicaSansLight";
+    src: url("../fonts/PublicaSansLight.otf");
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+.card{
+    margin: 15px;
+}
+.cardimg{
+    height: 400px;
+    border-radius: 10px;
+}
+#title1{
+    font-family: 'PublicaSansLight';
+    font-size: 30px;
+}
